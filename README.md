@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bnamb
 - 👀 I’m interested in becoming a front-end software developer
-- 🌱 I’m currently learning vuejs and tailwindcss
-- 💞️ I’m looking to begin a career in a company that will help me grow
+- 🌱 I’m currently learning React and data stuctures/algotrithms
+- 💞️ I’m looking to begin a career in a company that will offer me an environment to grow in.
 - 📫 How to reach me: Twitter @brenda_nambo
 
 <!---
